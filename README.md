@@ -23,8 +23,8 @@ This project is a React application that fetches and displays character data fro
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/rick-and-morty-characters.git
-   cd rick-and-morty-characters
+   git clone https://github.com/swetha-gadde/graphql-demo.git
+   cd apollo-graphql-demo
 
 2. **Install Dependencies**
     ```bash
@@ -50,6 +50,7 @@ Once the app is running, it will automatically fetch and display a list of chara
   - **`graphql/`**: Contains GraphQL queries and mutations.
   - **`App.js`**: The root component where the main layout and routing are handled.
   - **`index.js`**: Entry point of the React application.
+  - ** `styles/`** : contains the styles of the pages.
 
 ## Contributing
 
